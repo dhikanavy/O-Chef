@@ -1,0 +1,113 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.headercont{
+    display: flex;
+    width: 100%;
+    margin: auto;
+    height: 150px;
+    align-items: center;
+    margin-top:30px;
+}
+
+.containerlogo{
+    width:150px;
+    position:relative;
+    display:inline;
+    margin-left:40px;
+}
+
+.fotologo{
+    width:150px;
+    height:150px;
+}
+
+.judul{
+    position:relative;
+    display:inline;
+    font-size:40px;
+    margin-left:250px;
+}
+
+.input{
+    text-align:right;
+}
+
+.containerinfo{
+    display:flex;
+    width:100%;
+}
+
+.label{
+    width:15%;
+    position:relative;
+    display:inline;
+    text-align:right;
+    margin-right:10px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.textbox{
+    width:100%;
+    position:relative;
+    display:inline;
+    text-align:left;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.radio{
+    margin-left:210px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.fotoochefkanan{
+    position:absolute;
+    text-align:right;
+    margin-left:50%;
+    margin-top:5%;
+    border-left:solid 2px;
+    padding-left:70px;
+}
+
+/*footer*/
+footer{
+    text-align: center;
+    background-color: #fff;
+    color: black;
+    margin-top: 80px;
+    padding: 0px;
+    border-top: solid 2px;
+    position: relative;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+.footerImage1{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.footerImage2{
+    width: 40px;
+    height: 40px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.footerImage3{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}

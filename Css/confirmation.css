@@ -1,0 +1,100 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align:center;
+}
+
+.logocontainer{
+    justify-content:center;
+    align-items:center;
+}
+
+
+
+.fotologo{
+    width:250px;
+    height:250px;
+    justify-content:center;
+}
+
+.containerkotak2{
+    margin-top:25px;
+}
+
+.kotak{
+    border:solid 2px;
+    width:30%;
+    margin-left:35%;
+    padding:5px;
+}
+
+.containeratas,.containertengah{
+    display:flex;
+    width:100%;
+}
+
+.label{
+    width:30%;
+    position:relative;
+    display:inline;
+    text-align:right;
+    margin-right:10px;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.nama{
+    width:90%;
+    position:relative;
+    display:inline;
+    text-align:left;
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+.containerbawah{
+    text-align:left;
+    margin-left:40px;
+}
+
+.button{
+    margin-top:20px;
+}
+
+/*footer*/
+footer{
+    text-align: center;
+    background-color: #fff;
+    color: black;
+    margin-top: 80px;
+    padding: 0px;
+    border-top: solid 2px;
+    position: relative;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+}
+
+.footerImage1{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.footerImage2{
+    width: 40px;
+    height: 40px;
+    margin-left:20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.footerImage3{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
